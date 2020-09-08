@@ -9,3 +9,6 @@ For eksempel:
 #### Ting jeg ser fram til
 Jeg er optimistisk for resten av skoleåret og begynne og kode ordentlig og gjøre service på pc.    
 Lage servere og droner osv.
+
+### for en nærmere titt på denne nettsiden
+[Trykk her](https://github.com/DerpingHow/DerpingHow.github.io)
